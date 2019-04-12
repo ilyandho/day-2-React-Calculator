@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Calculator
+This is myt day project of the 30 days. And it is a calculator made with react.
+- I plan on using LocalStorage to persist history of the calculations done
 
 ## Available Scripts
 
